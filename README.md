@@ -27,6 +27,7 @@ O app deve consumir a [Pokédex Api](https://pokeapi.co/ "Pokédex Api"),  essa 
 ### Observações
 
 - Não utilize mais do que 3 bibliotecas externas (packages)
+- Para listar os pokémons até a terceira geração, utilize o endereço https://pokeapi.co/api/v2/pokemon?limit=384 (384 é o número máximo de pokémons até a geração III)
 - Para pegar uma imagem de um determinado pokémon, utilize o seguinte índice do JSON:
 `generation-iii": { "emerald": { "front_default" } }` (precisa ser generation-iii pra pegar todas as imgs das gerações de I a III)
 - O objetivo deste desafio é avaliar o seu conhecimento técnico, estilo de código, conhecimento de arquiteturas, padrões de programação e boas práticas. Faça disso uma oportunidade pra mostrar todo o seu conhecimento.
