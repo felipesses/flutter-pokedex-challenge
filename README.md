@@ -41,5 +41,5 @@ O app deve consumir a [Pokédex Api](https://pokeapi.co/ "Pokédex Api"),  essa 
 
 ### Processo de submissão
 
-Para submeter o seu desafio, faça um fork deste projeto para sua conta no github, realize o clone e desenvolva localmente, no final, abra um pull request com o formato "[Flutter] - Nome" para a master até a data limite estabelecida. Um exemplo seria "[Flutter] - Felipe Magalhães".
+Para submeter o seu desafio, faça um fork deste projeto para sua conta no github, realize o clone e desenvolva localmente, no final, abra um pull request com o formato "[Flutter] - Nome" para a master. Um exemplo seria "[Flutter] - Felipe Magalhães".
 
