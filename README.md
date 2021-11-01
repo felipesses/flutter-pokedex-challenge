@@ -19,9 +19,9 @@ O app deve consumir a [Pokédex Api](https://pokeapi.co/ "Pokédex Api"),  essa 
 		- Número na pokédex
 		- Nome
 		- Imagem
- - A segunda tela deve ter
+ - A segunda tela deve conter
  	- Informações básicas do pokémon selecionado da lista anterior: 
-		- Tipo (Um pokémon pode conter apenas um ou até dois)
+		- Tipo (Um pokémon pode conter um ou no máximo dois tipos)
 		- Habilidade (apenas uma)
 
 ### Observações
@@ -35,7 +35,7 @@ O app deve consumir a [Pokédex Api](https://pokeapi.co/ "Pokédex Api"),  essa 
 
 ### Opcionais (não necessário, porém contam pontos):
 
-- Utilizar gerenciador de estado (MobX, GetX, Bloc ou Provider)
+- Utilizar gerenciador de estado
 - Separar pastas entre backend e frontend (backend para chamadas da API e frontend para construção da interface)
 - Fazer uma busca na lista dos pokémons pelo nome
 
